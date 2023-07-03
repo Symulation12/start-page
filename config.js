@@ -100,7 +100,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Twitch',
 			icon: 'twitch',
-			link: 'https://twiich.com/bao',
+			link: 'https://twitch.com/bao',
 		},
 		{
 			id: '3',

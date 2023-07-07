@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Proton',
+			icon: 'mail',
+			link: 'https://mail.proton.me/u/1/inbox',
 		},
 		{
 			id: '5',

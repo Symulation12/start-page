@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/0/#inbox',
+			name: 'POE',
+			icon: 'coins',
+			link: 'https://www.pathofexile.com/trade',
 		},
 		{
 			id: '3',

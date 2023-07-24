@@ -3,7 +3,8 @@
 //  ┴ ┴ ┴└─┘┴ ┴└─┘
 // Set theme based on Configurations and Preferences
 
-let darkTheme = localStorage.getItem('darkTheme');
+//let darkTheme = localStorage.getItem('darkTheme');
+let darkTheme = 'enabled'; // Always dark theme
 const themeToggle = document.querySelector('#themeButton');
 const bodyBackground = document.getElementById('#body');
 
@@ -28,6 +29,7 @@ if (darkTheme === 'enabled') {
 } else {
 	disableDark();
 }
+
 
 themeToggle.addEventListener('click', () => {
 	darkTheme = localStorage.getItem('darkTheme');
@@ -60,4 +62,6 @@ if (CONFIG.changeThemeByHour && CONFIG.autoChangeTheme && !CONFIG.changeThemeByO
 	} else if (currentTime >= CONFIG.hourDarkThemeInactive) {
 		disableDark();
 	}
+
 }
+

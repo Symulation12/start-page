@@ -59,9 +59,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'POE',
-			icon: 'coins',
-			link: 'https://www.pathofexile.com/trade',
+			name: 'WOW',
+			icon: 'hourglass',
+			link: 'https://www.wowhead.com/',
 		},
 		{
 			id: '3',

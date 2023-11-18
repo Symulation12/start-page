@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Proton',
-			icon: 'mail',
-			link: 'https://mail.proton.me/u/1/inbox',
+			name: 'QELive',
+			icon: 'book-open',
+			link: 'https://questionablyepic.com/live/',
 		},
 		{
 			id: '5',

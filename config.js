@@ -53,15 +53,15 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'School',
-			icon: 'graduation-cap',
-			link: 'https://beaverhub.oregonstate.edu/s/',
+			name: 'PoE',
+			icon: 'skull',
+			link: 'https://grinding.zone/',
 		},
 		{
 			id: '2',
-			name: 'WOW',
-			icon: 'hourglass',
-			link: 'https://www.wowhead.com/',
+			name: 'PoE Trade',
+			icon: 'hand-coins',
+			link: 'https://www.pathofexile.com/trade/search/Standard',
 		},
 		{
 			id: '3',
@@ -71,9 +71,9 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'QELive',
-			icon: 'book-open',
-			link: 'https://questionablyepic.com/live/',
+			name: 'Garuda',
+			icon: 'circle-help',
+			link: 'https://forum.garudalinux.org/',
 		},
 		{
 			id: '5',

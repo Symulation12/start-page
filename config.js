@@ -59,15 +59,15 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'PoE Trade',
-			icon: 'hand-coins',
-			link: 'https://www.pathofexile.com/trade/search/Standard',
+			name: 'Bluesky',
+			icon: 'hash',
+			link: 'https://www.bsky.app',
 		},
 		{
 			id: '3',
 			name: 'Twitter',
 			icon: 'twitter',
-			link: 'https://twitter.com/home',
+			link: 'https://twitter.com',
 		},
 		{
 			id: '4',

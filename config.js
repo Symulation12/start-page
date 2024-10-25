@@ -61,7 +61,7 @@ const CONFIG = {
 			id: '2',
 			name: 'Bluesky',
 			icon: 'hash',
-			link: 'https://www.bsky.app',
+			link: 'https://bsky.app',
 		},
 		{
 			id: '3',

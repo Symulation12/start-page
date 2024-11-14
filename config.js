@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'Twitter',
 			icon: 'twitter',
-			link: 'https://twitter.com',
+			link: 'https://x.com/i/timeline',
 		},
 		{
 			id: '4',

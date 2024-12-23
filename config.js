@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'PoE',
 			icon: 'skull',
-			link: 'https://grinding.zone/',
+			link: 'https://www.pathofexile.com/trade2',
 		},
 		{
 			id: '2',

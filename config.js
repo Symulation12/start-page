@@ -122,9 +122,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'XIV',
+			name: 'GW2E',
 			icon: 'venetian-mask',
-			link: 'https://na.finalfantasyxiv.com/lodestone/news/',
+			link: 'https://gw2efficiency.com/daily',
 		},
 	],
 
